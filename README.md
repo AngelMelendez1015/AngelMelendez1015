@@ -4,9 +4,3 @@ Hi, I am a Full Stack Developer skilled in both .NET and Angular. I have experie
 ####      ![](https://img.shields.io/badge/C#.blue) ![](https://img.shields.io/badge/Javascript-blue) ![](https://img.shields.io/badge/ASP.Net-blue) ![](https://img.shields.io/badge/Javascript-blue)  ![](https://img.shields.io/badge/MVC-blue) ![](https://img.shields.io/badge/.Net-blue) ![](https://img.shields.io/badge/Angular-blue) ![](https://img.shields.io/badge/SCSS-blue) ![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/tailwindCss-blue) 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AngelMelendez1015&color=blue)
-
-<h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=AngelMelendez1015&show_icons=true&count_private=true&theme=algolia"/>
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelMelendez1015&layout=compact&theme=algolia&count_private=true" /> 
-<img height="150px" />
-<br/>  
