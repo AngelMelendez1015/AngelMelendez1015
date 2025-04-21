@@ -46,7 +46,7 @@ I’m always open to discussing new projects, collaborations, or full-time oppor
 
 - 📧 **Email**: amangelmelendez1015@gmail.com
 - 💼 **LinkedIn**: [linkedin.com/in/angelmelendez1015](https://www.linkedin.com/in/angelmelendez1015)  
-- 🌐 **Portfolio/Website**: [Angel Melendez](https://angel-portfolio-nine.vercel.app)
+- 🌐 **Portfolio/Website**: [Angel Melendez](https://angelmelendez-dev.vercel.app/)
 
 ---
 
