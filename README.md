@@ -44,10 +44,6 @@ With hands-on experience across a range of industries and project types, I bring
 
 I’m always open to discussing new projects, collaborations, or full-time opportunities. If you're looking for someone reliable who delivers clean code and dependable results, feel free to reach out:
 
-- 📧 **Email**: amangelmelendez1015@gmail.com
-- 💼 **LinkedIn**: [linkedin.com/in/angelmelendez1015](https://www.linkedin.com/in/angelmelendez1015)  
-- 🌐 **Portfolio/Website**: [Angel Melendez](https://angelmelendez-dev.vercel.app/)
-
 ---
 
 ### 📊 GitHub Activity
